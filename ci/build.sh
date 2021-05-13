@@ -92,3 +92,4 @@ mv "$OUTPUT" test.AppImage
 ./test.AppImage "${LINUXDEPLOY_ARGS[@]}" --output appimage
 
 mv "$OUTPUT"* "$OLD_CWD"/
+
